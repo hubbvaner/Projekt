@@ -9,7 +9,7 @@ int main()
 	int	b = 0;
 	int ilosc = 0;
 
-	cout << "podaj ilosc liczb\n" << endl;
+	cout << "podaj liczby\n" << endl;
 
 	cin >> ilosc;
 
